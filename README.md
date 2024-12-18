@@ -1,7 +1,7 @@
 # PongGame
 
 How to Run Game:
-The file named "Pong_game" contains all the files needed to run the pong game successfully. This game runs best on Visual Studio Code (VSC) as it is very easy to run it on there. You must be connected to the internet to run this game properly 
+The file named "Pong_game" contains all the files needed to run the pong game successfully. This game runs best on Visual Studio Code (VSC) as it is very easy to run it on there. You must be connected to the internet to run this game properly. 
 To setup the pong game:
 1. Install the "Live Server" extension on your VSC. to Install "Live Server", simply go to the "Extensions" tab and search for "Live Server"
 2. Open the "Pong_game" folder and click on the "index.html" file.
