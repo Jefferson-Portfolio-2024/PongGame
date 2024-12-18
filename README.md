@@ -15,5 +15,6 @@ How to play the game:
 
 
 
-The project:
-This Pong Game is my version of the classic game called "Pong" made by Atari. Pong was released in 1972, and was a groundbreaking game that began the rise of video games. My pong game takes the same basic idea but adds a couple of changes. My game utilizes a tweakpane extention that allows the player to change the difficulty of the opponent. The TweakPane also allows the player to change the color of the ball, and both sticks. Changing the difficulty will change how fast the ball goes and how quick it picks up speed. The difficulty also determines the size of the players stick, and the opponents. It will also determine how hard the opponent is to beat. 
+The Project:
+
+This Pong Game is my version of the classic game called "Pong" made by Atari. Pong was released in 1972, and was a groundbreaking game that began the rise of video games. My pong game takes the same basic idea but adds a couple of changes. My game utilizes a tweakpane extention that allows the player to change the difficulty of the opponent. The TweakPane also allows the player to change the color of the ball, and both sticks. Changing the difficulty will change how fast the ball goes and how quick it picks up speed. The difficulty also determines the size of the players stick, and the opponents. It will also determine how hard the opponent is to beat. The file "sketch.js" contains all the code the makes this program run. This pong game was made with the help of the p5js extension files. 
